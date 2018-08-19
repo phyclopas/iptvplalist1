@@ -1,31 +1,3 @@
-http://62.210.139.241:7777/get.php?username=wasim&password=wasim&type=m3u
-http://212.8.248.197:8080/get.php?username=ALEXIA&password=ALEXIA1&type=m3u
- 
-http://194.88.107.95:6204/get.php?username=Gamsa&password=Gamsa&type=m3u
- 
-http://iptv2017.ddns.net:8100/get.php?username=hamdi&password=1234&type=m3u
- 
-http://painel.iptvmove.com:80/get.php?username=sandra&password=sandra&type=m3u
- 
-http://painel.iptvmove.com:80/get.php?username=cleo&password=cleo&type=m3u
- 
-http://212.8.248.197:8080/get.php?username=amal&password=amal&type=m3u
- 
-http://painel.iptvmove.com:80/get.php?username=rosario&password=rosario&type=m3u
- 
-http://painel.iptvmove.com:80/get.php?username=francine&password=francine&type=m3u
- 
-http://fullhdp.servep2p.com:3500/get.php?username=xip.ddns.net&password=kelibia2&type=m3u
- 
-http://painel.iptvmove.com:80/get.php?username=sandra&password=sandra&type=m3u
- 
-http://195.154.107.246:1155/get.php?username=sultan&password=sultan2018&type=m3u
- 
-http://url550.com:8000/get.php?username=1234AA**@@Uz!!&password=bassamroundok&type=m3u
- 
-http://136.243.15.151:80/get.php?username=8FNcotdmZI&password=Ug9J3IedSR&type=m3u
- 
- 
 #EXTINF:-1,PT: TV GLOBO PREMIUM
 http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2629.ts
 #EXTINF:-1,PT: TV GLOBO
